@@ -1,5 +1,6 @@
 import requests
 import json
+import arrayPreview
 
 archivo = open("archivo1.txt", "a")
 
